@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#スクリプトファイルがPythonスクリプトとして実行される
+#スクリプトファイルがPythonスクリプトとして実行されるよ〜！
 #!/usr/bin/env python
 
 #rospyをインポートする。ROS Nodeを書く際に必要。
